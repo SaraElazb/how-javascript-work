@@ -13,5 +13,6 @@
 7. ### Result -> Users
    
 # Javascript Engines :
+| ------------ | -------------------------------- | -------------| --------------------------------|
 | V8 -> chrome | Spider monkey -> Mozilla firefox | Chakra -> IE | JavascriptCore(Nitro) -> safari |
    
