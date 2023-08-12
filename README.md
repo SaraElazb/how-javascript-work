@@ -7,12 +7,17 @@
    - parser ->   Error Handling
    - parser ->   Token stream
 3. ### AST -> Abstract Syntax Tree "Creation"
-       (https://astexplorer.net/)
-5. ### AST Abstract Syntax Tree Traversal
-6. ### Execution
-7. ### Result -> Users
+   [AST explorer](https://astexplorer.net/) - An online AST explorer
+4. ### AST Abstract Syntax Tree Traversal
+5. ### Execution
+6. ### Result -> Users
    
 # Javascript Engines :
-| ------------ | -------------------------------- | -------------| --------------------------------|
-| V8 -> chrome | Spider monkey -> Mozilla firefox | Chakra -> IE | JavascriptCore(Nitro) -> safari |
+| Engine | support |
+| ----------- | ----------- |
+| JavascriptCore(Nitro) | safari |
+| V8  | chrome |
+| Chakra | IE |
+| Spider monkey | Mozilla firefox |
+
    
